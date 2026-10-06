@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=210&amp;color=0:071A2B,45:0B456A,75:087E8B,100:16C1B7&amp;text=OLUWOLE%20SHOKUNBI&amp;fontSize=54&amp;fontAlignY=42&amp;desc=Control%20%7C%20Robotics%20%7C%20AI%20%7C%20Signal%20%26%20Image%20Processing&amp;descAlignY=67&amp;fontColor=FFFFFF&amp;animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/oluwoleorija-hub/oluwoleorija-hub/main/assets/profile-banner.svg" alt="Oluwole Shokunbi profile banner" />
 
 <br>
 
