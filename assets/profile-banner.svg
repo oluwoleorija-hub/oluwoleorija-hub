@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="250" viewBox="0 0 1400 250">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#071A2B"/>
+      <stop offset="45%" stop-color="#0B456A"/>
+      <stop offset="75%" stop-color="#087E8B"/>
+      <stop offset="100%" stop-color="#16C1B7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="250" fill="url(#bg)"/>
+  <text x="700" y="105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF">OLUWOLE SHOKUNBI</text>
+  <text x="700" y="155" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#FFFFFF">Control | Robotics | AI | Signal and Image Processing</text>
+  <text x="700" y="195" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#D9FFFF">M2 MSc Control and Robotics • Data, Signal and Image Processing</text>
+</svg>
