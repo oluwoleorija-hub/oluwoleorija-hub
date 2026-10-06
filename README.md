@@ -1,31 +1,19 @@
 <!-- ========================================================= -->
-<!--              PROFESSIONAL PROFILE TEMPLATE                -->
-<!--                    STYLE: OCEAN / NAVY                     -->
+<!--           OLUWOLE SHOKUNBI — GITHUB PROFILE               -->
+<!--          STYLE: OCEAN / NAVY — ENGINEERING & AI            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:071A2B,45:0B456A,75:087E8B,100:16C1B7&text=JOHN%20DOE&fontSize=58&fontAlignY=42&desc=Software%20%7C%20Data%20%7C%20Intelligent%20Systems&descAlignY=67&fontColor=FFFFFF&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:071A2B,45:0B456A,75:087E8B,100:16C1B7&text=OLUWOLE%20SHOKUNBI&fontSize=54&fontAlignY=42&desc=Control%20%7C%20Robotics%20%7C%20AI%20%7C%20Signal%20%26%20Image%20Processing&descAlignY=67&fontColor=FFFFFF&animation=fadeIn"
 />
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/oluwoleorija-hub">
   <img src="https://img.shields.io/badge/GitHub-071A2B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0B456A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-087E8B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-16A6A0?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -33,29 +21,33 @@
 <br>
 
 <p align="center">
-  <img
-    src="assets/profile-status-card.svg"
-    width="82%"
-    alt="Currently building, learning and exploring new opportunities"
-  />
+  <strong>M2 MSc Control & Robotics</strong><br>
+  <sub>Data, Signal & Image Processing • Machine Learning • Computer Vision • Intelligent Engineering Systems</sub>
 </p>
 
 ---
 
 <table>
 <tr>
-
 <td width="58%" valign="top">
 
 ## About
 
-I'm **John Doe**, a technology-focused problem solver interested in building systems that are practical, understandable, and useful.
+I'm **Oluwole Shokunbi**, an M2 Master's student in **Control & Robotics**, specializing in **Data, Signal and Image Processing**.
 
-My work sits across software engineering, data, and intelligent systems. I enjoy taking an idea from its initial problem definition through implementation, testing, and refinement.
+My work sits at the intersection of:
 
-I am particularly interested in projects where technology can simplify workflows, support better decisions, or turn raw information into useful products.
+- Control & Robotics
+- Machine Learning & Deep Learning
+- Computer Vision
+- Signal & Image Processing
+- Fault Detection & Diagnosis
+- Embedded Systems
+- Intelligent Engineering Systems
 
-GitHub is where I document what I build, how I approach technical problems, and what I learn along the way.
+I enjoy taking engineering problems from **physical understanding and mathematical formulation through data processing, modelling, implementation, experimentation and evaluation**.
+
+This GitHub profile documents my **research projects, engineering laboratories, machine-learning experiments, algorithms, simulations and reproducible technical workflows**.
 
 </td>
 
@@ -66,22 +58,31 @@ GitHub is where I document what I build, how I approach technical problems, and 
 ```text
 FOCUS
 
-Software Engineering
-Data & Analytics
+Control & Robotics
 Machine Learning
-Automation
+Computer Vision
+Signal Processing
+Fault Diagnosis
+Embedded Systems
 
 APPROACH
 
-Understand the problem
-Design the solution
-Build iteratively
-Test carefully
-Document clearly
+Understand the physics
+        ↓
+Formulate the problem
+        ↓
+Process the data
+        ↓
+Build the model
+        ↓
+Experiment & evaluate
+        ↓
+Analyse robustness
+        ↓
+Document & reproduce
 ```
 
 </td>
-
 </tr>
 </table>
 
@@ -89,9 +90,9 @@ Document clearly
 
 <div align="center">
 
-## Selected Work
+## Selected Research & Engineering Work
 
-A selection of projects that best represent my technical interests and development approach.
+Projects representing my interests in **AI-enabled engineering, computer vision, signal processing, control and intelligent systems**.
 
 </div>
 
@@ -102,48 +103,60 @@ A selection of projects that best represent my technical interests and developme
 
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<a href="https://github.com/oluwoleorija-hub/Active-Learning-Framework">
   <img
-    src="assets/projects/project-one-card.svg"
+    src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:071A2B,60:0B456A,100:087E8B&text=ACTIVE%20LEARNING&fontSize=25&fontColor=FFFFFF"
     width="96%"
-    alt="Project One"
+    alt="Active Learning Framework"
   />
 </a>
 
 <br>
 
-**PROJECT ONE**
+**ACTIVE LEARNING FOR ENGINEERING DATA**
 
-Short description of the problem solved by the project.
+Research-oriented framework investigating how intelligent sample selection can reduce labelling requirements while maintaining model performance.
 
-`Python` · `FastAPI` · `PostgreSQL`
+`Python` · `Scikit-learn` · `Pandas` · `NumPy`
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-0B456A?style=flat-square&logo=github&logoColor=white" />
+**Methods**
+
+`Random Sampling` · `Entropy Sampling` · `Query-by-Committee` · `Expected Model Change`
+
+<br>
+
+<a href="https://github.com/oluwoleorija-hub/Active-Learning-Framework">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B456A?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+<a href="https://github.com/oluwoleorija-hub/Image-Processing-Research">
   <img
-    src="assets/projects/project-two-card.svg"
+    src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:087E8B,60:0B456A,100:071A2B&text=COMPUTER%20VISION&fontSize=25&fontColor=FFFFFF"
     width="96%"
-    alt="Project Two"
+    alt="Image Processing Research"
   />
 </a>
 
 <br>
 
-**PROJECT TWO**
+**MEDICAL IMAGE / VIDEO PROCESSING**
 
-Short description of the problem solved by the project.
+Computer-vision pipeline for detecting moving tools in neurointerventional imaging sequences.
 
-`Python` · `Pandas` · `Scikit-learn`
+`Python` · `NumPy` · `SciPy` · `scikit-image`
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-087E8B?style=flat-square&logo=github&logoColor=white" />
+**Pipeline**
+
+`Background Subtraction` → `CLAHE` → `Spatial Filtering` → `FFT Filtering` → `Segmentation` → `Morphology`
+
+<br>
+
+<a href="https://github.com/oluwoleorija-hub/Image-Processing-Research">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-087E8B?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -154,52 +167,60 @@ Short description of the problem solved by the project.
 
 <td width="50%" valign="top" align="center">
 
-<br>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
+<a href="https://github.com/oluwoleorija-hub/Signal-Processing">
   <img
-    src="assets/projects/project-three-card.svg"
+    src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:071A2B,60:087E8B,100:16C1B7&text=SIGNAL%20PROCESSING&fontSize=23&fontColor=FFFFFF"
     width="96%"
-    alt="Project Three"
+    alt="Signal Processing"
   />
 </a>
 
 <br>
 
-**PROJECT THREE**
+**SIGNAL PROCESSING & SPECTRAL ANALYSIS**
 
-Short description of the problem solved by the project.
+Implementation and analysis of classical and advanced signal-processing techniques.
 
-`React` · `TypeScript` · `Vite`
+`Python` · `MATLAB` · `NumPy` · `SciPy`
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-0B456A?style=flat-square&logo=github&logoColor=white" />
+**Topics**
+
+`DFT / FFT` · `Filtering` · `Windowing` · `Welch` · `Wavelets` · `DCT`
+
+<br>
+
+<a href="https://github.com/oluwoleorija-hub/Signal-Processing">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B456A?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%" valign="top" align="center">
 
-<br>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
+<a href="https://github.com/oluwoleorija-hub/MSc-Control-and-Robotics_ECN">
   <img
-    src="assets/projects/project-four-card.svg"
+    src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:16C1B7,60:087E8B,100:071A2B&text=CONTROL%20%26%20ROBOTICS&fontSize=23&fontColor=FFFFFF"
     width="96%"
-    alt="Project Four"
+    alt="MSc Control and Robotics"
   />
 </a>
 
 <br>
 
-**PROJECT FOUR**
+**CONTROL, OPTIMIZATION & ROBOTICS**
 
-Short description of the problem solved by the project.
+Academic and engineering work covering mathematical modelling, optimization, control and robotics.
 
-`PyTorch` · `OpenCV` · `NumPy`
+`Python` · `MATLAB` · `Simulink` · `Optimization`
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-087E8B?style=flat-square&logo=github&logoColor=white" />
+**Topics**
+
+`Gradient Descent` · `Newton` · `KKT` · `Conjugate Gradient` · `Control Systems`
+
+<br>
+
+<a href="https://github.com/oluwoleorija-hub/MSc-Control-and-Robotics_ECN">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-16A6A0?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -220,106 +241,80 @@ Short description of the problem solved by the project.
 
 <td width="33%" valign="top" align="center">
 
-### Core Development
+### Programming & Computing
 
 <br>
 
-<img src="assets/tools/python.svg" height="42" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
 &nbsp;&nbsp;
-<img src="assets/tools/javascript.svg" height="42" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
 &nbsp;&nbsp;
-<img src="assets/tools/typescript.svg" height="42" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="MATLAB" />
 
 <br><br>
 
-`Python`  
-`JavaScript`  
-`TypeScript`  
-`SQL`
+`Python` · `C` · `MATLAB`
 
 <br><br>
 
-<img src="assets/tools/git.svg" height="42" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
 &nbsp;&nbsp;
-<img src="assets/tools/github.svg" height="42" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" />
 &nbsp;&nbsp;
-<img src="assets/tools/linux.svg" height="42" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter" />
 
 <br><br>
 
-`Git`  
-`GitHub`  
-`Linux`
+`Git` · `GitHub` · `Jupyter`
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### Data & Intelligence
+### AI & Data
 
 <br>
 
-<img src="assets/tools/numpy.svg" height="42" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="NumPy" />
 &nbsp;&nbsp;
-<img src="assets/tools/pandas.svg" height="42" alt="pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" />
 &nbsp;&nbsp;
-<img src="assets/tools/scikitlearn.svg" height="42" alt="scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch" />
 
 <br><br>
 
-`NumPy`  
-`pandas`  
-`SciPy`  
-`scikit-learn`
+`NumPy` · `Pandas` · `SciPy`<br>
+`Scikit-learn` · `PyTorch`
 
 <br><br>
 
-<img src="assets/tools/pytorch.svg" height="42" alt="PyTorch" />
-&nbsp;&nbsp;
-<img src="assets/tools/opencv.svg" height="42" alt="OpenCV" />
-&nbsp;&nbsp;
-<img src="assets/tools/jupyter.svg" height="42" alt="Jupyter" />
-
-<br><br>
-
-`PyTorch`  
-`OpenCV`  
-`Jupyter`
+Machine Learning<br>
+Deep Learning<br>
+Active Learning
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### Applications & Delivery
+### Vision & Engineering
 
 <br>
 
-<img src="assets/tools/react.svg" height="42" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="42" alt="OpenCV" />
 &nbsp;&nbsp;
-<img src="assets/tools/vite.svg" height="42" alt="Vite" />
-&nbsp;&nbsp;
-<img src="assets/tools/fastapi.svg" height="42" alt="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" />
 
 <br><br>
 
-`React`  
-`Vite`  
-`FastAPI`  
-`REST APIs`
+`OpenCV` · `scikit-image`<br>
+`Signal Processing` · `Computer Vision`
 
 <br><br>
 
-<img src="assets/tools/docker.svg" height="42" alt="Docker" />
-&nbsp;&nbsp;
-<img src="assets/tools/github-actions.svg" height="42" alt="GitHub Actions" />
-&nbsp;&nbsp;
-<img src="assets/tools/postgresql.svg" height="42" alt="PostgreSQL" />
-
-<br><br>
-
-`Docker`  
-`GitHub Actions`  
-`PostgreSQL`
+`Control Systems`<br>
+`Robotics`<br>
+`Embedded Systems`<br>
+`Fault Diagnosis`
 
 </td>
 
@@ -328,77 +323,207 @@ Short description of the problem solved by the project.
 
 ---
 
-## Professional Development
+## Core Technical Areas
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<a href="YOUR_CERTIFICATE_URL">
-  <img
-    src="assets/credentials/certificate-one-wide.svg"
-    width="95%"
-    alt="Professional Certificate"
-  />
-</a>
+### 🤖 Control & Robotics
 
-<br>
-
-**Professional Certificate**
-
-Organization Name
+- System modelling
+- Feedback control
+- Dynamic systems
+- Numerical optimization
+- Gradient-based methods
+- Newton's method
+- Conjugate gradient
+- KKT conditions
+- Embedded control
+- Robotics
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<a href="YOUR_CERTIFICATE_URL">
-  <img
-    src="assets/credentials/certificate-two-wide.svg"
-    width="95%"
-    alt="Professional Certificate"
-  />
-</a>
+### 🧠 Machine Learning
 
-<br>
+- Classification
+- Regression
+- SVM / SVR
+- Decision Trees
+- Random Forests
+- Neural Networks
+- Clustering
+- Active Learning
+- Model evaluation
+- Sensitivity analysis
 
-**Professional Certificate**
+</td>
 
-Organization Name
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+- Image preprocessing
+- Image enhancement
+- Segmentation
+- Background subtraction
+- Morphological processing
+- Feature extraction
+- SIFT
+- Harris
+- ORB
+- Homography
+- Camera geometry
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📡 Signal Processing
+
+- Fourier Transform
+- DFT / FFT
+- Spectral analysis
+- Windowing
+- Periodograms
+- Welch estimation
+- Filtering
+- Time-frequency analysis
+- Wavelet transforms
+- DCT / JPEG
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<div align="center">
+## Research Workflow
 
-<a href="https://github.com/YOUR_USERNAME/certifications">
-  <img
-    src="https://img.shields.io/badge/VIEW_ALL_CREDENTIALS-071A2B?style=for-the-badge"
-    alt="View all credentials"
-  />
-</a>
-
-</div>
+```text
+                    ENGINEERING PROBLEM
+                           │
+                           ▼
+                 Physical Understanding
+                           │
+                           ▼
+              Mathematical Formulation
+                           │
+                           ▼
+              Data / Simulation Generation
+                           │
+                           ▼
+                  Data Preprocessing
+                           │
+                           ▼
+                 Feature Engineering
+                           │
+                           ▼
+              ┌────────────┴────────────┐
+              │                         │
+              ▼                         ▼
+       Machine Learning          Signal / Image
+          Modelling                Processing
+              │                         │
+              └────────────┬────────────┘
+                           ▼
+                    Experimental Study
+                           │
+                           ▼
+                Quantitative Evaluation
+                           │
+                           ▼
+              Robustness / Sensitivity
+                           │
+                           ▼
+                 Reproducible Results
+```
 
 ---
+
+## What I Build
+
+### 01 — Engineering Understanding
+
+I aim to understand the **physical, mathematical and computational structure** of a problem before applying data-driven methods.
+
+### 02 — Quantitative Evaluation
+
+Models and algorithms are evaluated using appropriate metrics, experiments, comparisons and sensitivity analyses rather than relying on a single performance number.
+
+### 03 — Reproducibility
+
+I aim to structure projects so that experiments, configurations, results and implementation choices can be understood and reproduced.
+
+---
+
+## Academic & Research Focus
+
+**M2 MSc Control & Robotics**  
+**Specialization:** Data, Signal & Image Processing
+
+Current areas of focus:
+
+```text
+Control Systems
+Signal Processing
+Image Processing
+Computer Vision
+Machine Learning
+Deep Learning
+Active Learning
+Fault Detection & Diagnosis
+Embedded Systems
+Robotics
+```
+
+---
+
+## Professional Direction
+
+I am interested in opportunities involving:
+
+**Research & Development · Machine Learning · Computer Vision · Signal Processing · Robotics · Control Systems · Fault Diagnosis · Intelligent Systems**
+
+I am particularly interested in engineering problems where **physical modelling, data-driven methods and intelligent algorithms** can be combined to create reliable solutions.
+
+---
+
+## Portfolio Roadmap
+
+I am building this profile around a focused collection of **well-documented, research-quality engineering repositories**.
+
+| Repository | Focus |
+|---|---|
+| 🤖 [Active Learning Framework](https://github.com/oluwoleorija-hub/Active-Learning-Framework) | Active Learning & Machine Learning |
+| 👁️ [Image Processing Research](https://github.com/oluwoleorija-hub/Image-Processing-Research) | Computer Vision & Image Processing |
+| 📡 [Signal Processing](https://github.com/oluwoleorija-hub/Signal-Processing) | FFT, Filtering, Wavelets & Spectral Analysis |
+| 🤖 [MSc Control & Robotics](https://github.com/oluwoleorija-hub/MSc-Control-and-Robotics_ECN) | Control, Optimization & Robotics |
+
+> **Next portfolio focus:** Fault Detection & Diagnosis and STM32 Embedded Control.
+
+---
+
+<div align="center">
 
 ## GitHub Snapshot
 
-<div align="center">
-
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=071A2B&title_color=16C1B7&text_color=E8F1F5&icon_color=16C1B7"
+  src="https://github-readme-stats.vercel.app/api?username=oluwoleorija-hub&show_icons=true&hide_border=true&bg_color=071A2B&title_color=16C1B7&text_color=E8F1F5&icon_color=16C1B7"
 />
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=071A2B&title_color=16C1B7&text_color=E8F1F5"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwoleorija-hub&layout=compact&hide_border=true&bg_color=071A2B&title_color=16C1B7&text_color=E8F1F5"
 />
 
 </div>
@@ -407,27 +532,19 @@ Organization Name
 
 <div align="center">
 
-## Contact
+## Let's Connect
 
-Interested in collaboration, technical opportunities, and meaningful projects.
+Interested in **research collaboration, internships, engineering projects and intelligent systems**.
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-0B456A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-087E8B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/PORTFOLIO-16A6A0?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://github.com/oluwoleorija-hub">
+  <img src="https://img.shields.io/badge/GITHUB-071A2B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-`Build thoughtfully. Learn continuously. Deliver clearly.`
+`Engineering with intelligence. Research with purpose. Systems that work.`
 
 <br><br>
 
