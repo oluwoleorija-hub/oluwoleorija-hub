@@ -1,16 +1,16 @@
 <!-- ========================================================= -->
 <!--              OLUWOLE SHOKUNBI — GITHUB PROFILE             -->
-<!--          STYLE: OCEAN / NAVY — ENGINEERING & AI            -->
+<!--          STYLE: OCEAN / NAVY — ENGINEERING &amp; AI            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:071A2B,45:0B456A,75:087E8B,100:16C1B7&text=OLUWOLE%20SHOKUNBI&fontSize=54&fontAlignY=42&desc=Control%20%7C%20Robotics%20%7C%20AI%20%7C%20Signal%20%26%20Image%20Processing&descAlignY=67&fontColor=FFFFFF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=210&amp;color=0:071A2B,45:0B456A,75:087E8B,100:16C1B7&amp;text=OLUWOLE%20SHOKUNBI&amp;fontSize=54&amp;fontAlignY=42&amp;desc=Control%20%7C%20Robotics%20%7C%20AI%20%7C%20Signal%20%26%20Image%20Processing&amp;descAlignY=67&amp;fontColor=FFFFFF&amp;animation=fadeIn" />
 
 <br>
 
-<a href="https://github.com/oluwoleorija-hub"><img src="https://img.shields.io/badge/GitHub-071A2B?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:oluwoleorija@gmail.com"><img src="https://img.shields.io/badge/Email-087E8B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/oluwoleorija-hub"><img src="https://img.shields.io/badge/GitHub-071A2B?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="mailto:oluwoleorija@gmail.com"><img src="https://img.shields.io/badge/Email-087E8B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 </div>
 
@@ -186,8 +186,8 @@ I am particularly interested in engineering problems where **physical modelling,
 ## GitHub Snapshot
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=oluwoleorija-hub&show_icons=true&hide_border=true&bg_color=071A2B&title_color=16C1B7&text_color=E8F1F5&icon_color=16C1B7" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwoleorija-hub&layout=compact&hide_border=true&bg_color=071A2B&title_color=16C1B7&text_color=E8F1F5" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=oluwoleorija-hub&amp;show_icons=true&amp;hide_border=true&amp;bg_color=071A2B&amp;title_color=16C1B7&amp;text_color=E8F1F5&amp;icon_color=16C1B7" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwoleorija-hub&amp;layout=compact&amp;hide_border=true&amp;bg_color=071A2B&amp;title_color=16C1B7&amp;text_color=E8F1F5" />
 </div>
 
 ---
@@ -200,8 +200,8 @@ Interested in **research collaboration, internships, engineering projects and in
 
 <br>
 
-<a href="https://github.com/oluwoleorija-hub"><img src="https://img.shields.io/badge/GITHUB-071A2B?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:oluwole@gmail.com"><img src="https://img.shields.io/badge/EMAIL-087E8B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/oluwoleorija-hub"><img src="https://img.shields.io/badge/GITHUB-071A2B?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="mailto:oluwoleorija@gmail.com"><img src="https://img.shields.io/badge/EMAIL-087E8B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 <br><br>
 
@@ -209,6 +209,6 @@ Interested in **research collaboration, internships, engineering projects and in
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:16C1B7,45:087E8B,100:071A2B" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=42&amp;color=0:16C1B7,45:087E8B,100:071A2B" />
 
 </div>
